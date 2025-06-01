@@ -1,4 +1,4 @@
-# Stitch - Rollup for Python
+# StitchUP - Rollup for Python
 
 This package works similar to rollup js. It does not give so much flexibility and features as rollup but it aspires to do that. With this package you can resolve necessary `Function`s and `Class`es with an inplace replacement.
 
